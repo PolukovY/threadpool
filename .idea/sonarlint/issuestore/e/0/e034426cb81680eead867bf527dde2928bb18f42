@@ -1,0 +1,7 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ñ„ûí
+t
+java:S2142
+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
